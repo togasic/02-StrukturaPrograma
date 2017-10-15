@@ -8,7 +8,7 @@
     <ProjectGuid>{7E2C21A1-9DD8-42B0-A758-80C51FE0EB21}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Imenici</RootNamespace>
+    <RootNamespace>Vsite.CSharp.StrukturaPrograma</RootNamespace>
     <AssemblyName>Imenici</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <TargetFrameworkProfile>

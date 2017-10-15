@@ -8,7 +8,7 @@
     <ProjectGuid>{075546C9-D283-4329-BC94-3DEEA75C3D5A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Identifikatori</RootNamespace>
+    <RootNamespace>Vsite.CSharp.StrukturaPrograma</RootNamespace>
     <AssemblyName>Identifikatori</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

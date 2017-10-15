@@ -8,7 +8,7 @@
     <ProjectGuid>{0FB2EF92-4056-452C-AB02-08A2007AE993}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DokumentacijskiKomentari</RootNamespace>
+    <RootNamespace>Vsite.CSharp.StrukturaPrograma</RootNamespace>
     <AssemblyName>DokumentacijskiKomentari</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
