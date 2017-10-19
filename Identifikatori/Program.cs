@@ -9,6 +9,12 @@ namespace Vsite.CSharp.StrukturaPrograma
     {
         static void Main(string[] args)
         {
+            //  int string= 5; kljucne rijeci nemozemo koristiti kao identifikatore
+            int get = 10;
+            string Main = "Pero";
+            const int \u0161etrdesetšest = 46;
+            const int бројШест = 6;
+            const string 你好 = "Hello";
         }
     }
 }
