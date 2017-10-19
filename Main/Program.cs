@@ -4,10 +4,10 @@ namespace Vsite.CSharp.StrukturaPrograma
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Krećem iz Program.Main(string[] args)");
-        }
+        //static void main(string[] args)
+        //{
+        //    console.writeline("krećem iz program.main(string[] args)");
+        //}
 
         static void Main()
         {
