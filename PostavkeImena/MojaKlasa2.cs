@@ -2,15 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Vsite.CSharp.StrukturaPrograma
 {
-    class Program
+    class MojaKlasa2
     {
-        static void Main(string[] args)
-        {
-
-
-        }
     }
 }
