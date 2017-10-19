@@ -9,6 +9,11 @@ namespace Vsite.CSharp.StrukturaPrograma
     {
         static void Main(string[] args)
         {
+            int get = 10;
+            string main = "main()";
+            const int petdesetišest = 56;
+            const string 你好 = "shanghai_black_powder";
+            const int \u0161etri = 4;
         }
     }
 }
