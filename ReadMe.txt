@@ -3,7 +3,7 @@ StrukturaPrograma
 
 Main
 ----
-Unutar klase smije biti samo jedan metoda Main (bez obzira što se metode u C# 
+Unutar klase smije biti samo jedna metoda Main (bez obzira što se metode u C# 
 mogu preopterećivati).
 
 Unutar izvedbenog (.EXE) modula može biti više metoda Main u različitim 
