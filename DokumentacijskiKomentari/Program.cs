@@ -4,7 +4,9 @@ using System.Linq;
 using System.Text;
 
 namespace Vsite.CSharp.StrukturaPrograma
-{
+{/// <summary>
+/// Primjer za predavanja. 
+/// </summary>
     class Program
     {
         static void Main(string[] args)
@@ -27,7 +29,15 @@ namespace Vsite.CSharp.StrukturaPrograma
             return broj * broj;
         }
 
-
+        /// <summary>
+        ///   Izračunava ukupnu duljinu dvije riječi.
+        /// </summary>
+        /// <param name="prva">
+        /// Prva riječ.</param>
+        /// <param name="druga">
+        /// Druga riječ.</param>
+        /// <returns>
+        /// Ukupna duljina</returns>
         static int DuljinaDvijeRiječi(string prva, string druga)
         {
             return (prva + druga).Length;
