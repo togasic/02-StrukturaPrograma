@@ -26,8 +26,19 @@ namespace Vsite.CSharp.StrukturaPrograma
         {
             return broj * broj;
         }
-
-
+        
+        /// <summary>
+        ///   Izračunava kvadrat broja.
+        /// </summary>
+        /// <param name="prva">
+        ///   Prva riječ.
+        /// </param>
+         /// <param name="druga">
+        ///   Druga riječ.
+        /// </param>
+        /// <returns>
+        ///   Zadani broj na kvadrat, tipa <c>double</c>.
+        /// </returns>
         static int DuljinaDvijeRiječi(string prva, string druga)
         {
             return (prva + druga).Length;
